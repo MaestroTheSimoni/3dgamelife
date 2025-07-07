@@ -514,7 +514,7 @@ const GameOfLife = () => {
 
               <div className="mt-4 pt-3 border-t border-gray-600">
                 <p className="text-xs text-gray-400">
-                  💡 Tip: Apply patterns and watch them evolve in real-time!
+                  💡 Tip: Apply patterns and watch them evolve in real-time
                 </p>
               </div>
             </div>
